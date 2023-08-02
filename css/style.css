@@ -1,0 +1,23 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+background-color: rgb(27, 6, 75)  ;
+color: #ffff;
+}
+
+.forms {
+  font-size: 24px;
+  background-color: rgb(72, 14, 124);
+}
+.form {
+  display: flex;
+  margin: 10px auto 10px auto;
+  padding: 0;
+}
+
+.tittle {
+  font-size: 40px;
+}
+
